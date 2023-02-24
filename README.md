@@ -40,3 +40,7 @@ opendns:https://146.112.41.2/dns-query{?dns}
 />
 <img src="https://github-readme-stats.vercel.app/api?username=stevessr&show_icons=true" />
 </picture>
+
+<picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevessr"/>
+</picture>

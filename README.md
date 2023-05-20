@@ -42,14 +42,10 @@ opendns:https://146.112.41.2/dns-query{?dns}
 <picture>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevessr"/>
 </picture>
-https://github.com/stevessr/stevessr/raw/main/0001-0250.mkv
-<div>
-<video height="360" width="480" preload  controls>
-    <source src="https://raw.githubusercontent.com/stevessr/stevessr/main/0001-0250.mkv" type="video/mp4">
+<video height="360" width="480" controls>
+    <source src="https://raw.githubusercontent.com/stevessr/stevessr/main/0001-0250.mp4" type="video/mp4">
     您的浏览器不支持 video 标签。
 </video>
-  <video controls>
-    <source src="https://github.com/stevessr/stevessr/raw/main/0001-0250.mkv" type="video/mp4">
-    您的浏览器不支持 video 标签。
-</video>
-</div>
+https://github.com/stevessr/stevessr/raw/main/0001-0250.mp4
+
+https://raw.githubusercontent.com/stevessr/stevessr/main/0001-0250.mp4

@@ -6,7 +6,7 @@
 ...
 --->
 
-- 🌱 I’m currently learning  
+- 🌱 I’m currently learning in SCNU
 
 <!--
 ...
@@ -16,6 +16,8 @@
 
 - 📫 How to reach me ...
 
+use outlook mail : stevessr@outlook.com
+ 
 <!---
 stevessr/stevessr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m @stevessr
 
 - 👀 I’m interested in all 
@@ -7,12 +8,14 @@
 --->
 
 - 🌱 I’m currently learning in SCNU
+- 🎶 I am now learning C++(again) rust(for the first time） JS/TS(noob)
 
 <!--
 ...
 --->
 
 - 💞️ I’m looking to collaborate on ...
+- 😶‍🌫️ I am using Vercel, Cloudflare, Serv00, netlify , 4everland
 
 - 📫 How to reach me ...
 

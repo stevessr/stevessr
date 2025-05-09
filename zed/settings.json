@@ -1,0 +1,94 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "agent": {
+    "default_model": {
+      "provnameer": "openai",
+      "model": "gpt-4o"
+    },
+    "model_parameters": [],
+    "always_allow_tool_actions": true,
+    "version": "2"
+  },
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+  "theme": {
+    "mode": "system",
+    "light": "Vercel Light",
+    "dark": "One Dark"
+  },
+  "language_models": {
+    "openai": {
+      "version": "1",
+      "api_url": "https://api.aaca.eu.org",
+      "available_models": [
+        {
+          "name": "gemini-2.0-flash",
+          "max_tokens": 1048576,
+          "max_output_tokens": 8192,
+          "cache_configuration": {
+            "max_cache_anchors": 10,
+            "min_total_token": 10000,
+            "should_speculate": false
+          }
+        },
+        {
+          "name": "gemini-2.0-flash-exp",
+          "max_tokens": 1048576,
+          "max_output_tokens": 8192,
+          "cache_configuration": {
+            "max_cache_anchors": 10,
+            "min_total_token": 10000,
+            "should_speculate": false
+          }
+        },
+        {
+          "name": "gemini-2.0-flash-lite-preview",
+          "max_tokens": 1048576,
+          "max_output_tokens": 8192,
+          "cache_configuration": {
+            "max_cache_anchors": 10,
+            "min_total_token": 10000,
+            "should_speculate": false
+          }
+        },
+        {
+          "name": "gemini-2.5-flash-preview-04-17",
+          "max_tokens": 1048576,
+          "max_output_tokens": 65536,
+          "cache_configuration": {
+            "max_cache_anchors": 10,
+            "min_total_token": 10000,
+            "should_speculate": false
+          }
+        },
+        {
+          "name": "gemini-2.5-pro-exp-03-25",
+          "max_tokens": 1048576,
+          "max_output_tokens": 65536,
+          "cache_configuration": {
+            "max_cache_anchors": 10,
+            "min_total_token": 10000,
+            "should_speculate": false
+          }
+        },
+        {
+          "name": "qwen-qwq-32b",
+          "max_tokens": 1048576,
+          "max_output_tokens": 32768,
+          "cache_configuration": {
+            "max_cache_anchors": 10,
+            "min_total_token": 10000,
+            "should_speculate": false
+          }
+        }
+      ]
+    }
+  }
+}

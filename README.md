@@ -19,7 +19,7 @@
 
 - 📫 How to reach me ...
 
-use outlook mail : stevessr@outlook.com
+use outlook mail : steve-ssr@outlook.com
  
 <!---
 stevessr/stevessr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

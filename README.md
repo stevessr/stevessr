@@ -15,7 +15,7 @@
 --->
 
 - 💞️ I’m looking to collaborate on ...
-- 😶‍🌫️ I am using Vercel, Cloudflare, Serv00, netlify , 4everland
+- 😶‍🌫️ I am using Vercel, Cloudflare, netlify , 4everland
 
 - 📫 How to reach me ...
 

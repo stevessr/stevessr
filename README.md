@@ -8,7 +8,7 @@
 --->
 
 - 🌱 I’m currently learning in SCNU
-- 🎶 I am now learning C++(again) rust(for the first time） JS/TS(noob)
+- 🎶 I am now learning C++(again) rust(for another first time） JS/TS(noob)
 
 <!--
 ...
@@ -20,7 +20,10 @@
 - 📫 How to reach me ...
 
 use outlook mail : steve-ssr@outlook.com
- 
+or matrix: @steve:neko.aaca.eu.org
+devoted in https://github.com/stevessr/astrbot_plugin_matrix_adapter
+linux do is ok , too : https://linux.do/u/stevessr/summary
+
 <!---
 stevessr/stevessr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -51,6 +54,6 @@ opendns:https://146.112.41.2/dns-query{?dns}
     <source src="https://raw.githubusercontent.com/stevessr/stevessr/main/0001-0250.mp4" type="video/mp4">
     您的浏览器不支持 video 标签。
 </video>
-https://github.com/stevessr/stevessr/raw/main/0001-0250.mp4
 
-https://raw.githubusercontent.com/stevessr/stevessr/main/0001-0250.mp4
+may be part of the song i like
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2l4U8Kik0sOAA43EXVDgFH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -1,7 +1,6 @@
-
 - 👋 Hi, I’m @stevessr
 
-- 👀 I’m interested in all 
+- 👀 I’m interested in all
 
 <!---
 ...
@@ -29,11 +28,7 @@ stevessr/stevessr is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-
 opendns:https://146.112.41.2/dns-query{?dns}
-
 
 <picture>
 <source 
@@ -56,4 +51,5 @@ opendns:https://146.112.41.2/dns-query{?dns}
 </video>
 
 may be part of the song i like
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2l4U8Kik0sOAA43EXVDgFH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+https://open.spotify.com/embed/playlist/2l4U8Kik0sOAA43EXVDgFH?utm_source=generator

@@ -44,6 +44,36 @@
 ### 📝 Editors & IDEs
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Zed-18181B?style=for-the-badge&logo=zed&logoColor=white" /> <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" /> <img src="https://img.shields.io/badge/GNU_nano-2F343F?style=for-the-badge&logo=gnu-nano&logoColor=00FF66" />
 
+### fastfetch
+```
+           .-------------------------:                    steve@steve2go
+          .+=========================.                    --------------
+         :++===++==================-       :++-           OS: CachyOS x86_64
+        :*++====+++++=============-        .==:           Host: JiguangX Series Laptop
+       -*+++=====+***++==========:                        Kernel: Linux 7.0.10-1-cachyos
+      =*++++========------------:                         Uptime: 3 hours, 44 mins
+     =*+++++=====-                     ...                Packages: 15 (flatpak), 2146 (pacman)
+   .+*+++++=-===:                    .=+++=:              Shell: fish 4.7.1
+  :++++=====-==:                     -*****+              Display (DP): 1920x1200 in 22", 60 Hz [External]
+ :++========-=.                      .=+**+.              Display (TMA2031): 2560x1600 @ 1.5x in 16", 165 Hz [Built-in]
+.+==========-.                          .                 WM: niri 26.04 (Wayland)
+ :+++++++====-                                .--==-.     Theme: MaterialAdw [Qt], Breeze [GTK2/3]
+  :++==========.                             :+++++++:    Icons: Adwaita [Qt], breeze [GTK2/3/4]
+   .-===========.                            =*****+*+    Font: Rubik (11pt, Regular) [Qt], Google Sans Flex Medium (11pt) [GTK2/3/4]
+    .-===========:                           .+*****+:    Cursor: breeze (24px)
+      -=======++++:::::::::::::::::::::::::-:  .---:      Terminal: kitty 0.46.2
+       :======++++====+++******************=.             Terminal Font: JetBrainsMonoNF-Regular (11pt)
+        :=====+++==========++++++++++++++*-               CPU: 12th Gen Intel(R) Core(TM) i7-12800HX (24) @ 4.80 GHz
+         .====++==============++++++++++*-                GPU 1: NVIDIA GeForce RTX 4070 Max-Q / Mobile [Discrete]
+          .===+==================+++++++:                 GPU 2: Intel UHD Graphics 770 @ 1.45 GHz [Integrated]
+           .-=======================+++:                  Memory: 11.47 GiB / 15.35 GiB (75%)
+             ..........................                   Swap: 8.62 GiB / 47.35 GiB (18%)
+                                                          Disk (/): 372.23 GiB / 455.41 GiB (82%) - ext4
+                                                          Local IP (wlan0): 192.168.3.*/24
+                                                          Battery (standard): 100% [AC Connected]
+                                                          Locale: zh_CN.UTF-8
+```
+
 ## 📫 Connect with me
 
 <p align="left">

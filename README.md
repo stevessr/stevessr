@@ -38,6 +38,9 @@
 ### ⚡  ongoing features
 <img src="https://img.shields.io/badge/eBPF-181717?style=for-the-badge&logo=linux&logoColor=00FF66" /> <img src="https://img.shields.io/badge/io__uring-2D3748?style=for-the-badge&logo=linux&logoColor=FFA500" /> <img src="https://img.shields.io/badge/cgo-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Machine_Learning-3F51B5?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
+### 🤖 AI Agent CLIs & Copilots
+<img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=F9F0EA" /> <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=412991" /> <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logo=Google" /> <img src="https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+
 
 
 ## 📫 Connect with me
@@ -74,15 +77,10 @@
 ### 📊 My GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stevessr&theme=github_dark#gh-dark-mode-only)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stevessr&theme=default#gh-light-mode-only)
-
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stevessr&theme=tokyonight#gh-dark-mode-only)
-![](https://github-readme-streak-stats.herokuapp.com/?user=stevessr&theme=default#gh-light-mode-only)
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stevessr&theme=github_dark#gh-dark-mode-only)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stevessr&theme=default#gh-light-mode-only)
 
 ## 🏛️ an old video
 

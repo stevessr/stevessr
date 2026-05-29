@@ -41,7 +41,8 @@
 ### 🤖 AI Agent CLIs & Copilots
 <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=F9F0EA" /> <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=412991" /> <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logo=Google" /> <img src="https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 
-
+### 📝 Editors & IDEs
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Zed-18181B?style=for-the-badge&logo=zed&logoColor=white" /> <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" /> <img src="https://img.shields.io/badge/GNU_nano-2F343F?style=for-the-badge&logo=gnu-nano&logoColor=00FF66" />
 
 ## 📫 Connect with me
 
